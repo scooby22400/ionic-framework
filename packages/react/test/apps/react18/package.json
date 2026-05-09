@@ -34,7 +34,7 @@
     "concurrently": "^6.3.0",
     "cypress": "^13.2.0",
     "serve": "^14.0.1",
-    "wait-on": "^6.0.0",
+    "wait-on": "^9.0.5",
     "eslint": "^8.35.0",
     "eslint-plugin-react": "^7.32.2",
     "jsdom": "^22.1.0",
